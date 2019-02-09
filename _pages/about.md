@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I am a 4th-year PhD student in the Computer Science department at the University of Crete, working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/home/Angelos_Bilas.html). I am also a graduate research assistant in the Institute of Computer Science (ICS) at the Foundation of Research and Technology — Hellas (FORTH). Anastasios received his Bachelors and Masters degree in Computer Science from University of Crete in 2010 and 2013 respectively. He had also worked as a Research and Development Engineer in ICS-FORTH before his PhD studies.
+Welcome to my personal website. I am a 4th-year PhD student in the [Computer Science department](https://www.csd.uoc.gr/) at the [University of Crete](http://www.uoc.gr/), working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/home/Angelos_Bilas.html). I am also a graduate research assistant in the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology — Hellas (FORTH)](https://www.forth.gr/). I received my Bachelors and Masters degree in Computer Science from University of Crete in 2010 and 2013 respectively. I have also worked as a Research and Development Engineer in ICS-FORTH before my PhD studies.
+
+I am honored to receive the [Facebook Graduate Fellowship (2019)](https://research.fb.com/announcing-the-2019-facebook-fellows-and-emerging-scholars/).
+
+Research Interests
+======
+My research interests lies in the general area of computer systems. My currently work focuses on the area of datacenter storage systems, especially in low-overhead access to fast storage devices (SSDs and NVM). System software overhead, which becomes a significant bottleneck in the I/O path, affects in the high power consumption and low processing density in datacenters, which is a major issue nowadays. Towards this direction, his recent work includes the design and implementation of key-value stores that are optimized for fast storage devices having in mind processing density and infrastructure efficiency. These systems designed with having in mind to reduce the number of cycles needed per operation, which also results in a power efficient design.
 
 <!---
 
