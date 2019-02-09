@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2018-10-11
 venue: 'ACM Symposium on Cloud Computing'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3267824'
-citation: 'Papagiannis, Anastasios, Giorgos Saloustros, Pilar González-Férez, and Angelos Bilas (2016). &quot;An Efficient Memory-Mapped Key-Value Store for Flash Storage..&quot; <i>Proceedings of the ACM Symposium on Cloud Computing</i>. pp. 490-502.'
+citation: ' '
 ---
 Persistent key-value stores have emerged as a main component in the data access path of modern data processing systems. However, they exhibit high CPU and I/O overhead. Today, due to power limitations it is important to reduce CPU overheads for data processing.
 
