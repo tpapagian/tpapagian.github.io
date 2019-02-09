@@ -2,7 +2,7 @@
 title: "An Efficient Memory-Mapped Key-Value Store for Flash Storage."
 collection: publications
 permalink: /publication/2018-kreon-socc
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ' '
 date: 2018-10-11
 venue: 'ACM Symposium on Cloud Computing'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3267824'
