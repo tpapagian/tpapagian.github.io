@@ -1,5 +1,5 @@
 ---
-title: "Vanguard: Increasing Server Efficiency via Workload Isolation in the Storage I/O Path."
+title: "Vanguard: Increasing Server Efficiency via Workload Isolation in the Storage I/O Path"
 collection: publications
 permalink: /publication/2014-vanguard-socc
 excerpt: ' '

@@ -1,5 +1,5 @@
 ---
-title: "Tucana: Design and Implementation of a Fast and Efficient Scale-up Key-value Store."
+title: "Tucana: Design and Implementation of a Fast and Efficient Scale-up Key-value Store"
 collection: publications
 permalink: /publication/2016-tucana-atc
 excerpt: ' '

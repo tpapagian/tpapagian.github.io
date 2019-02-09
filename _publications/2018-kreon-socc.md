@@ -1,5 +1,5 @@
 ---
-title: "An Efficient Memory-Mapped Key-Value Store for Flash Storage."
+title: "An Efficient Memory-Mapped Key-Value Store for Flash Storage"
 collection: publications
 permalink: /publication/2018-kreon-socc
 excerpt: ' '
