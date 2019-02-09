@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+Welcome to my personal website. I am a 4th-year PhD student in the Computer Science department at the University of Crete, working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/home/Angelos_Bilas.html). I am also a graduate research assistant in the Institute of Computer Science (ICS) at the Foundation of Research and Technology — Hellas (FORTH). Anastasios received his Bachelors and Masters degree in Computer Science from University of Crete in 2010 and 2013 respectively. He had also worked as a Research and Development Engineer in ICS-FORTH before his PhD studies.
 
 <!---
 
