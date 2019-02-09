@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I am a 4th-year PhD student in the [Computer Science department](https://www.csd.uoc.gr/) at the [University of Crete](http://www.uoc.gr/), working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/home/Angelos_Bilas.html). I am also a graduate research assistant in the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology — Hellas (FORTH)](https://www.forth.gr/). I received my Bachelors and Masters degree in Computer Science from University of Crete in 2010 and 2013 respectively. I have also worked as a Research and Development Engineer in ICS-FORTH before my PhD studies.
+Welcome to my personal website. I am a 4th-year PhD student in the [Computer Science department](https://www.csd.uoc.gr/) at the [University of Crete](http://www.uoc.gr/), working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/home/Angelos_Bilas.html). I am also a graduate research assistant in the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology — Hellas (FORTH)](https://www.forth.gr/). I received my Bachelors and Masters degree in [Computer Science from University of Crete](https://www.csd.uoc.gr/) in 2010 and 2013 respectively. I have also worked as a Research and Development Engineer in [ICS-FORTH](https://www.ics.forth.gr/carv/) before my PhD studies.
 
 I am honored to receive the [Facebook Graduate Fellowship (2019)](https://research.fb.com/announcing-the-2019-facebook-fellows-and-emerging-scholars/).
 
