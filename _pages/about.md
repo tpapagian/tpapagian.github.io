@@ -16,8 +16,14 @@ I am honored to receive the [Facebook Graduate Fellowship (2019-2020)](https://r
 
 Research Interests
 ======
-My research interests lies in the general area of computer systems. My currently work focuses on the area of datacenter storage systems, especially in low-overhead access to fast storage devices (SSDs and NVM). System software overhead, which becomes a significant bottleneck in the I/O path, affects in the high power consumption and low processing density in datacenters, which is a major issue nowadays. Towards this direction, his recent work includes the design and implementation of key-value stores that are optimized for fast storage devices having in mind processing density and infrastructure efficiency. These systems designed with having in mind to reduce the number of cycles needed per operation, which also results in a power efficient design.
+My research interests lies in the general area of computer systems. My currently work focuses on the area of datacenter storage systems, especially in low-overhead access to fast storage devices (SSDs and NVM). 
 
+<!---
+
+System software overhead, which becomes a significant bottleneck in the I/O path, affects in the high power consumption and low processing density in datacenters, which is a major issue nowadays. Towards this direction, his recent work includes the design and implementation of key-value stores that are optimized for fast storage devices having in mind processing density and infrastructure efficiency. These systems designed with having in mind to reduce the number of cycles needed per operation, which also results in a power efficient design.
+
+
+-->
 <!---
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
