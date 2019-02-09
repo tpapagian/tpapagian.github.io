@@ -1,7 +1,7 @@
 ---
 title: "Tucana: Design and Implementation of a Fast and Efficient Scale-up Key-value Store."
 collection: publications
-permalink: /publication/2016-tucana-atc.md
+permalink: /publication/2016-tucana-atc
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-06-22
 venue: 'USENIX Annual Technical Conference'
