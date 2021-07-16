@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anastasios Papagiannis"
 title_separator          : "-"
 name                     : &name "Anastasios Papagiannis"
-description              : &description "PhD Candidate at University of Crete"
+description              : &description "Production Engineer at Facebook"
 url                      : https://tpapagian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tpapagian/tpapagians.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anastasios Papagiannis"
   avatar           : "pic1.jpg"
-  bio              : "PhD Candidate at University of Crete and Graduate Research Assistant at ICS-FORTH"
-  location         : "Heraklion, Crete, Greece"
+  bio              : "Production Engineer at Facebook"
+  location         : "London, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zf1LmOwAAAAJ"
   email            :
