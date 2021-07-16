@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Production Engineer](https://engineering.fb.com/category/production-engineering/) at [Facebook](https://about.facebook.com/), building reliable systems at scale. I obtained my Ph.D. degree in the [Computer Science Department](https://www.csd.uoc.gr/) at the [University of Crete](http://www.uoc.gr/), working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/) in 2021. My dissertation focuses on reducing system overheads when accessing data on next-generation fast storage devices. During my doctoral studies, I was also a graduate research assistant in the [Computer Architecture and VLSI Systems (CARV) Laboratory](https://www.ics.forth.gr/carv/) of the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology — Hellas (FORTH)](https://www.forth.gr/). I received my Bachelor and Master degree in [Computer Science](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) from the [University of Crete](https://en.uoc.gr/) in 2010 and 2013 respectively. 
+I am a [Production Engineer](https://engineering.fb.com/category/production-engineering/) at [Facebook](https://about.facebook.com/), building reliable systems at scale. I obtained my Ph.D. degree in the [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) at the [University of Crete](https://en.uoc.gr/), working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/) in 2021. My dissertation focuses on reducing system overheads when accessing data on next-generation fast storage devices. During my doctoral studies, I was also a graduate research assistant in the [Computer Architecture and VLSI Systems (CARV) Laboratory](https://www.ics.forth.gr/carv/) of the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology — Hellas (FORTH)](https://www.forth.gr/). I received my Bachelor and Master degree in [Computer Science](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) from the [University of Crete](https://en.uoc.gr/) in 2010 and 2013 respectively. 
 
 I am honored that my work, during my doctoral studies, was awarded with the [Facebook Graduate Fellowship (2019-2021)](https://research.fb.com/announcing-the-2019-facebook-fellows-and-emerging-scholars/) in the [Compute Storage & Efficiency](https://research.fb.com/fellows/papagiannis-anastasios/) research team and the [Maria Michail Manasaki Doctoral Fellowship (2018)](https://www.csd.uoc.gr/CSD/index.jsp?custom=manasakis&lang=en).
 
@@ -22,16 +22,16 @@ Education
 ======
 * *Ph.D.* in Computer Science (February 2021)  <br />
  [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), [University of Crete](https://en.uoc.gr/) <br />
- Thesis: Memory-mapped I/O for Fast Storage ([local copy](https://tpapagian.github.io/files/apapag_phd_thesis.pdf)), ([link 1](https://www.didaktorika.gr/eadd/handle/10442/49334?locale=en)), ([link 2](https://elocus.lib.uoc.gr/dlib/d/a/d/metadata-dlib-1615972815-306070-18599.tkl)) <br />
+ Thesis: *Memory-mapped I/O for Fast Storage* ([local copy](https://tpapagian.github.io/files/apapag_phd_thesis.pdf)), ([link 1](https://www.didaktorika.gr/eadd/handle/10442/49334?locale=en)), ([link 2](https://elocus.lib.uoc.gr/dlib/d/a/d/metadata-dlib-1615972815-306070-18599.tkl)) <br />
  Advisor: [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/)
 
 * *M.Sc.* in Computer Science (March 2013) <br />
  [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), [University of Crete](https://en.uoc.gr/) <br />
- Thesis: Implementing Scalable Parallel Programming Models with Hybrid Address Spaces ([local copy](https://tpapagian.github.io/files/apapag_msc_thesis.pdf)), ([link](https://elocus.lib.uoc.gr/dlib/1/b/f/metadata-dlib-1364369659-773582-32329.tkl)) <br />
+ Thesis: *Implementing Scalable Parallel Programming Models with Hybrid Address Spaces* ([local copy](https://tpapagian.github.io/files/apapag_msc_thesis.pdf)), ([link](https://elocus.lib.uoc.gr/dlib/1/b/f/metadata-dlib-1364369659-773582-32329.tkl)) <br />
  Advisor: [Prof. Dimitrios S. Nikolopoulos](https://www.dsniko.net/)
 
 * *B.Sc.* in Computer Science (November 2010) <br />
  [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), [University of Crete](https://en.uoc.gr/) <br />
- Thesis: Performance analysis of Xen on NUMA multi-core systems <br />
+ Thesis: *Performance analysis of Xen on NUMA multi-core systems* <br />
  Advisor: [Prof. Dimitrios S. Nikolopoulos](https://www.dsniko.net/)
 
