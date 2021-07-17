@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Anastasios Papagiannis"
+  name             : "Anastasios Papagiannis"
   avatar           : "papagiannis_img.jpg"
   bio              : "Production Engineer at Facebook"
   location         : "London, UK"
