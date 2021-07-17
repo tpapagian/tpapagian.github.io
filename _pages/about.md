@@ -22,12 +22,12 @@ Education
 ======
 * *Ph.D.* in Computer Science (February 2021)  <br />
  [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), [University of Crete](https://en.uoc.gr/) <br />
- Thesis: *Memory-mapped I/O for Fast Storage* ([local copy](https://tpapagian.github.io/files/apapag_phd_thesis.pdf)), ([link 1](https://www.didaktorika.gr/eadd/handle/10442/49334?locale=en)), ([link 2](https://elocus.lib.uoc.gr/dlib/d/a/d/metadata-dlib-1615972815-306070-18599.tkl)) ([slides](https://tpapagian.github.io/files/public_phd_defence_apapag.pptx)) <br />
+ Thesis: *Memory-mapped I/O for Fast Storage* ([local copy](https://tpapagian.github.io/files/apapag_phd_thesis.pdf)) ([link 1](https://www.didaktorika.gr/eadd/handle/10442/49334?locale=en)) ([link 2](https://elocus.lib.uoc.gr/dlib/d/a/d/metadata-dlib-1615972815-306070-18599.tkl)) ([slides](https://tpapagian.github.io/files/public_phd_defence_apapag.pptx)) <br />
  Advisor: [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/)
 
 * *M.Sc.* in Computer Science (March 2013) <br />
  [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en), [University of Crete](https://en.uoc.gr/) <br />
- Thesis: *Implementing Scalable Parallel Programming Models with Hybrid Address Spaces* ([local copy](https://tpapagian.github.io/files/apapag_msc_thesis.pdf)), ([link](https://elocus.lib.uoc.gr/dlib/1/b/f/metadata-dlib-1364369659-773582-32329.tkl)) ([slides](https://tpapagian.github.io/files/msc_presenation_apapag.pdf)) <br />
+ Thesis: *Implementing Scalable Parallel Programming Models with Hybrid Address Spaces* ([local copy](https://tpapagian.github.io/files/apapag_msc_thesis.pdf)) ([link](https://elocus.lib.uoc.gr/dlib/1/b/f/metadata-dlib-1364369659-773582-32329.tkl)) ([slides](https://tpapagian.github.io/files/msc_presenation_apapag.pdf)) <br />
  Advisor: [Prof. Dimitrios S. Nikolopoulos](https://www.dsniko.net/)
 
 * *B.Sc.* in Computer Science (November 2010) <br />
@@ -40,7 +40,7 @@ Publications
 
 ## Book Chapters
 
-1. Angelos Bilas, Jesus Carretero, Toni Cortes, Javier Garcia-Blas, Pilar Gonzalez-Ferez, <u>Anastasios Papagiannis</u>, Anna Queralt, Fabrizio Marozzo, Giorgos Saloustros, Ali Shoker, Domenico Talia, Paolo Trunfio. *Chapter 4: Data Management Techniques* (book title: [Ultrascale Computing Systems](https://digital-library.theiet.org/content/books/pc/pbpc024e)), edited by Jesus Carretero, Emmanuel Jeannot, Albert Zomaya, IET Digital Library, 2019 ([link](https://digital-library.theiet.org/content/books/10.1049/pbpc024e_ch4;jsessionid=8pkhrptt9e7j9.x-iet-live-01), [pdf](https://repositorio.inesctec.pt/bitstream/123456789/11803/1/P-00S-7RQ.pdf))
+1. Angelos Bilas, Jesus Carretero, Toni Cortes, Javier Garcia-Blas, Pilar Gonzalez-Ferez, <u>Anastasios Papagiannis</u>, Anna Queralt, Fabrizio Marozzo, Giorgos Saloustros, Ali Shoker, Domenico Talia, Paolo Trunfio. *Chapter 4: Data Management Techniques* (book title: [Ultrascale Computing Systems](https://digital-library.theiet.org/content/books/pc/pbpc024e)), edited by Jesus Carretero, Emmanuel Jeannot, Albert Zomaya, IET Digital Library, 2019 ([link](https://digital-library.theiet.org/content/books/10.1049/pbpc024e_ch4;jsessionid=8pkhrptt9e7j9.x-iet-live-01)) ([pdf](https://repositorio.inesctec.pt/bitstream/123456789/11803/1/P-00S-7RQ.pdf))
 
 ## Refereed Journal Articles
 
