@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anastasios Papagiannis"
 title_separator          : "-"
 name                     : &name "Anastasios Papagiannis"
-description              : &description "Production Engineer at Facebook"
+description              : &description "Software Engineer at Isovalent"
 url                      : https://tpapagian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tpapagian/tpapagians.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anastasios Papagiannis"
   avatar           : "papagiannis_img.jpg"
-  bio              : "Production Engineer at Facebook"
-  location         : "London, UK"
+  bio              : "Software Engineer at Isovalent"
+  location         : "Athens, Greece"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zf1LmOwAAAAJ"
   email            :
