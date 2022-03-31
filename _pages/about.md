@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at [Isovalent](https://isovalent.com/) working on [eBPF](https://ebpf.io/)-based cloud-native security and observability in Linux.
-
-Previously, I was a [Production Engineer](https://engineering.fb.com/category/production-engineering/) (hybrid between software and systems engineer) at [Facebook](https://about.facebook.com/), building reliable systems at scale.
+I am a Software Engineer at [Isovalent](https://isovalent.com/) working on [eBPF](https://ebpf.io/)-based cloud-native security and observability in Linux. Previously, I was a [Production Engineer](https://engineering.fb.com/category/production-engineering/) (hybrid between software and systems engineer) at [Facebook](https://about.facebook.com/), working on the containerization of datastores.
 
 I obtained my Ph.D. degree in the [Computer Science Department](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) at the [University of Crete](https://en.uoc.gr/), working with [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/) in 2021. My dissertation focuses on reducing system overheads when accessing data on next-generation fast storage devices. During my doctoral studies, I was also a graduate research assistant in the [Computer Architecture and VLSI Systems (CARV) Laboratory](https://www.ics.forth.gr/carv/) of the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology — Hellas (FORTH)](https://www.forth.gr/). I received my Bachelor and Master degree in [Computer Science](https://www.csd.uoc.gr/CSD/index.jsp?lang=en) from the [University of Crete](https://en.uoc.gr/) in 2010 and 2013 respectively.
 
