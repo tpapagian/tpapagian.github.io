@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anastasios Papagiannis"
 title_separator          : "-"
 name                     : &name "Anastasios Papagiannis"
-description              : &description "Software Engineer at Isovalent"
+description              : &description "Software Engineer @ Isovalent at Cisco"
 url                      : https://tpapagian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tpapagian/tpapagians.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anastasios Papagiannis"
   avatar           : "papagiannis_img.jpg"
-  bio              : "Software Engineer at Isovalent"
+  bio              : "Software Engineer @ Isovalent at Cisco"
   location         : "Athens, Greece"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=zf1LmOwAAAAJ"
